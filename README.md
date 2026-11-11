@@ -28,3 +28,8 @@ If someone buys your game, they own it.
 ## 🤝 Paid Tools & Creator Collaboration
 * Zero Piracy / Bring Your Own Files: Zetra does not redistribute paid or proprietary shaders, scripts, or assets (such as DPS). Users must supply their own legally purchased copies to use compatible workflows.
 * Open Invitation to Tool Authors: If you are the original creator of a paid tool and want to maintain, verify, or take charge of how Zetra bridges into your system, reach out or open an issue—you are 100% welcome to oversee your integration.
+
+## 🔌 Cross-Engine Transition Layer (Bring Your Own Tools)
+* Direct Plug-In Architecture: Rather than bundling third-party paid assets, Zetra uses a dedicated Transition Layer (proven with our Unity bridge) that lets your legally purchased tools plug directly into Godot.
+* How It Works: Drop your existing tool package into Zetra's compatibility folder, and the transition layer automatically maps its hooks, parameters, and workflows into the engine.
+* For Original Tool Authors: If you created a paid tool and want to customize, verify, or co-maintain its transition bridge inside Zetra, our doors are wide open.
