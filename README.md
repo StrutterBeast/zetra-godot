@@ -24,3 +24,7 @@ If someone buys your game, they own it.
 
 * Mandatory Offline Variant: Any game built or distributed using this launcher must include a fully functional offline mode that runs without requiring an active internet connection, external DNS checks, or online license verification servers.
 * No Rental Traps: Developers and publishers may not use always-online DRM or remote kill-switches to revoke access after a player has purchased the game.
+
+## 🤝 Paid Tools & Creator Collaboration
+* Zero Piracy / Bring Your Own Files: Zetra does not redistribute paid or proprietary shaders, scripts, or assets (such as DPS). Users must supply their own legally purchased copies to use compatible workflows.
+* Open Invitation to Tool Authors: If you are the original creator of a paid tool and want to maintain, verify, or take charge of how Zetra bridges into your system, reach out or open an issue—you are 100% welcome to oversee your integration.
