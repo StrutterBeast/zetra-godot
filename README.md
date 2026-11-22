@@ -3,7 +3,7 @@ Welcome to Zetra! Your sweet new companion for Godot. Zetra seamlessly bridges y
 
 # Zetra Blue for Godot
 
-**An all-in-one Godot 4.7.2 plugin featuring avatar tools, a visual novel builder, and built-in editors for photos, vectors, video, documents, and spreadsheets.**
+**An all-in-one Godot 4.7.2 plugin featuring avatar tools, a visual novel builder, and built-in editors for photos, vectors, video, documents, and spreadsheets and more**
 
 * **Supported Engine:** Godot **4.7.2** *(other versions are not supported)*
 * **Included Terrain System:** **Terrain3D** *(bundled under its own MIT License)*
