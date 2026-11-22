@@ -1,223 +1,50 @@
-================================================================================
-UNIFIED OPEN-SYSTEM LICENSE, EULA, TERMS OF SERVICE, AND GOVERNANCE POLICY
-================================================================================
-Version 5.0 | Effective Date: November 10, 2026
+# Zetra Blue End User Licence Agreement (EULA)
 
-LICENSOR / LEGAL OWNER:
-  Full Legal Name : Raymond Rey Quiles
-  Date of Birth   : November 10, 1999 (Age: 27)
-  GitHub Identity : StrutterBeast (a.k.a. Austin the Wickerbeast)
-  Operating Entity: AoberaVoideyStudio (Private Company)
+DRAFT. Fill in the remaining [SQUARE BRACKETS] before you publish this, and have a lawyer check it. It is not legal advice.
 
---------------------------------------------------------------------------------
-CLICKWRAP & UP-FRONT MANDATORY NOTICE — READ BEFORE ACCEPTING OR DOWNLOADING
---------------------------------------------------------------------------------
-STOP AND READ THIS LICENSE AGREEMENT BEFORE CLICKING "ACCEPT," DOWNLOADING,
-CLONING, STORING, OR EXECUTING ANY FILE IN THIS REPOSITORY OR SYSTEM.
+## 1. The licence
+Aober Aura Studio ("we") gives you a personal, non-exclusive, non-transferable, revocable licence to install and use Zetra Blue and the Zetra colour tabs and tools that come with it ("the software") for your own projects, under this EULA, the Terms of Service and the Policies. We keep all rights we do not give you here. The software is licensed, not sold.
 
-1. CLICKWRAP BINDING NOTICE: By clicking "Accept," checking any agreement box,
-   downloading, cloning, storing, or running any component of this System, you
-   expressly acknowledge that you were urged to read this full License Agreement
-   first, and you legally bind yourself, your organization, and your physical
-   or digital accounts to every word herein. Blindly clicking "Accept" without
-   reading does not excuse compliance.
+## 2. Who gets this licence for free
+You may use the software free of charge if you are an individual, a hobbyist, a student, a small creator, or a small team that is not a Large Organization. You may sell what you make with it.
 
-2. NO LOOPHOLES OR SEMANTIC WORD-GAMES: This Agreement is written in plain,
-   direct language on purpose. There are NO hidden loopholes, NO corporate
-   carve-outs, NO grace periods, and NO semantic word-games permitted. Attempting
-   to bypass these rules by switching up legal jargon, inventing new labels for
-   AI, or rebranding prohibited conduct is an immediate violation.
+## 3. Large Organizations
+A "Large Organization" is any company, group or body that, together with the companies it controls or is controlled by, had more than [REVENUE THRESHOLD] in yearly revenue or funding, or has more than [NUMBER] people working for it, in its last financial year. A Large Organization does not get this licence. It needs a separate written agreement with us before it installs, uses, hosts, resells, builds on or embeds the software. A person may not use the software on behalf of a Large Organization, including as a contractor, without that agreement. Splitting a company into pieces to stay under the threshold does not count.
 
-3. FOUR CORE FUNDAMENTAL PRINCIPLES:
-   (a) STOP KILLING GAMES & SOFTWARE: Nothing built on or distributed through
-       this System may ever be remotely killed, shut down, or rendered unplayable.
-   (b) ZERO DRM: Digital Rights Management, always-online locks, and anti-tamper
-       wrappers are strictly forbidden.
-   (c) NO SCRAPING OR REVERSE / CLEAN-ROOM ENGINEERING: No entity may scrape data,
-       train AI models on this System, reverse engineer, or use clean-room
-       engineering to clone this System for commercial or proprietary use.
-   (d) ANTI-AI GAME GENERATION & ANTI-SLOP BAN: Using generative AI, LLMs,
-       automated content mills, or derivative machine-generation systems to
-       mass-produce low-effort games or "slop" content within or derived from
-       this System is strictly prohibited and treated as an unlawful violation.
+## 4. What you may do
+- Use the software on your own devices to make your own work.
+- Keep copies for backup.
+- Change the plain scripts for your own use, if they are provided as source. Your changes are still covered by this EULA.
+- **Ship what the software makes.** Games, templates, shaders, exports and the small runtime files the tools copy into your project (for example VNPlayer, DynamicBone, VTuberTracker, AntiCraft and the game templates) may be distributed inside your own projects, free of charge, including in commercial projects. Keep any copyright and licence notices that come with those files, for example in your credits or a licence file. Do not distribute them on their own, in a pack, or as an asset or tool for others to build with (see section 5). A Large Organization needs the written agreement in section 3 first.
 
-4. STRICT BAN ON BUSINESS STORAGE & COMMERCIAL ACCOUNT POSSESSION:
-   Merely storing, caching, cloning, or holding this System or any of its files
-   inside a commercial business model, corporate server, or business-owned
-   physical or digital account grants ZERO license rights. It is strictly
-   illegal and unauthorized for any business owner, corporate officer, or
-   commercial account holder to touch, open, execute, or possess these files.
+## 5. What you may not do
+- Sell, rent, lend, sub-license, host or share the software or any part of it on its own, or put it in a pack, asset store or service, without our written permission. (Section 4 covers what you ship inside your own projects.)
+- Scrape, crawl or bulk-copy the software, its documents or its data, by hand or by machine, from any device, including an iPhone.
+- Reverse engineer, decompile or take apart anything not provided as plain source, or copy its way of working through a clean-room or "clean engineering" process.
+- Use it, its outputs or its documents to build, train or test a competing product.
+- Remove or hide our name, notices or this EULA.
+- Use it to make content the Policies forbid.
+- Share a template pack or other file made to harm people's computers or data.
+This applies as far as the law allows. A right the law gives you and that cannot be waived stays yours.
 
-5. AUTOMATIC LAWSUIT & LEGAL ENFORCEMENT TRIGGER:
-   Any violation of the Fundamental Principles, EULA, Terms of Service, or
-   Governance Policy—including any attempt to get around these terms using
-   alternate AI systems or reworded legal jargon—immediately and automatically
-   triggers formal legal proceedings, injunctive relief, full asset/profit
-   disgorgement, and statutory damages against the offending company, account
-   owner, or individual.
---------------------------------------------------------------------------------
+## 6. Your content
+You keep ownership of everything you make. We do not claim it, collect it or train anything on it. You promise that you have the right to use everything you put into the software, and that you follow the Policies, including the rules for adult content.
 
-PART I: DEFINITIONS & LEGAL OWNERSHIP
+## 7. Files you convert or import
+Zetra Blue can read and convert files from other programs (for example .unitypackage, .fbx, .psd, .kra, .docx, shaders and avatars). You may only convert or import files you have the right to use. Converting a file does not give you any rights to it and does not change the licence it came with (for example a store licence, an avatar licence or a paid shader licence). Those licences still apply to the result.
 
-1.1 "Licensor" and "Owner" refer exclusively to Raymond Rey Quiles (born
-    November 10, 1999, Age 27), operating publicly under the GitHub handle
-    StrutterBeast (a.k.a. Austin the Wickerbeast) and through his private
-    company, AoberaVoideyStudio. All intellectual property, authorship, moral
-    rights, and enforcement authority over the System belong solely to the
-    Licensor.
+## 8. Third-party parts and services
+Parts made by others stay under their own licences (see THIRD_PARTY.md). Nothing in this EULA changes those licences. Some tools can start other programs you installed yourself (such as ffmpeg, Blender, Python or tpm2-tools) or contact services you choose to use (such as the Claude API with your own key in AntiCraft Chat). Those programs and services are not ours. Their terms, prices and privacy rules apply, and you are responsible for your own accounts and keys with them.
 
-1.2 "The System" refers to the operating system, kernel, shell, custom engine
-    modifications, runtime environment, documentation, scripts, and all
-    associated source or binary files published by the Licensor.
+## 9. Not affiliated
+Zetra is not affiliated with, endorsed by or sponsored by Microsoft, Google, Adobe, Unity, VRChat, Poiyomi, the Blender Foundation, the Krita project, OpenSeeFace, Anthropic, Valve or any other company or product named in the software or its documents. Their names are used only to say which formats or ideas a tool relates to. All trademarks belong to their owners.
 
-1.3 "Prohibited AI & Slop Systems" refers to any generative artificial
-    intelligence, large language model (LLM), diffusion model, machine-learning
-    pipeline, procedural asset scraper, automated code synthesizer, neural
-    re-skinner, or any future or renamed computational system designed to
-    automate creative game development or mass-produce low-effort, derivative
-    media ("slop"), regardless of the technical or legal terminology used to
-    describe it.
+## 10. Updates and ending
+We may update or stop the software at any time. This licence ends if you break it. When it ends, stop using the software and delete your copies. What you made with it stays yours.
 
-1.4 "Commercial Entity" or "Business Model" refers to any corporation, LLC,
-    partnership, enterprise, publisher, data broker, studio, or for-profit
-    organization, including its subsidiaries, shell companies, contractors,
-    and physical or cloud-hosted business accounts.
+## 11. No warranty and limits
+The software is provided "as is". The science, maths and engineering tools (Zetra Purple) are for learning and quick checks, not for safety-critical, medical or professional use. As far as the law allows we are not liable for lost data, lost income or indirect damage. Nothing here limits liability that the law does not allow us to limit.
 
---------------------------------------------------------------------------------
+## 12. Governing law and contact
+The laws of Wisconsin, USA apply. Contact: Aober Aura Studio, rahnightbluelight.epic627@passinbox.com. Effective [EFFECTIVE DATE].
 
-PART II: END USER LICENSE AGREEMENT (EULA)
-
-2. Grant of Personal & Non-Commercial License
-   Subject to strict, continuous compliance with every clause of this Agreement,
-   the Licensor grants to individual human End Users ("Users") a personal,
-   worldwide, royalty-free, non-exclusive license to download, install, execute,
-   and inspect the System solely for lawful, human-crafted, non-commercial,
-   educational, or authorized sovereign public-infrastructure purposes.
-
-3. Principle 1 — Perpetual Usability & Anti-Obsolescence ("Stop Killing Anything")
-   3.1 Right to Continued Operation: Once any game, application, engine tool,
-       or digital work is distributed or executed on this System, the End User
-       retains an irrevocable, perpetual right to run, archive, and preserve
-       that work locally or on private community servers forever.
-   3.2 Ban on Remote Kill-Switches: No developer, publisher, or vendor may embed
-       remote termination triggers, expiration timers, or mandatory central
-       server dependencies designed to disable or degrade software after
-       release. Before shutting down any official online service, the creator
-       must release standalone server binaries and full offline support.
-
-4. Principle 2 — Absolute Prohibition of DRM
-   4.1 Zero-DRM Environment: Digital Rights Management (DRM), always-online
-       authentication checks, hardware-tethering locks, kernel-level anti-cheat
-       rootkits, and encrypted license wrappers are strictly forbidden.
-   4.2 Nullification of Restrictive Wrappers: Any attempt to wrap System files
-       or System-hosted software inside proprietary DRM is void from inception
-       and constitutes an immediate breach of this EULA.
-
-5. Principle 3 — Prohibition of Generative AI Game Development & "Slop" Content
-   5.1 Ban on AI-Generated Games & Slop: Using generative AI or automated
-       content pipelines to build games, generate code, synthesize art/audio,
-       or flood the ecosystem with mass-produced, low-effort, or derivative
-       "slop" content on or through this System is strictly prohibited and
-       deemed an unauthorized, unlawful exploitation of the Licensor's framework.
-   5.2 Human Craftsmanship Requirement: Software and games created for this
-       System must represent genuine human authorship and engineering rather
-       than automated AI slop generation.
-   5.3 No Circumvention via Rebranding or Alternate AI Forms: Users and entities
-       may not bypass Section 5.1 by calling an AI system by another name
-       (including but not limited to "autonomous agents," "assisted synthesis,"
-       "procedural neural tools," "synthetic datasets," or any newly invented
-       industry jargon). Any automated system functioning as generative AI or
-       producing AI slop is strictly covered and barred.
-
---------------------------------------------------------------------------------
-
-PART III: TERMS OF SERVICE (ToS) — COMMERCIAL & CORPORATE RESTRICTIONS
-
-6. Absolute Ban on Business Storage, Hosting & Physical Account Possession
-   6.1 No Corporate Storage or Caching: Storing, mirroring, cloning, staging, or
-       holding any part of the System inside a Commercial Entity's business
-       model, enterprise repository, internal network, or commercial server is
-       strictly forbidden and confers ZERO license rights.
-   6.2 Illegal to Touch or Use via Business Accounts: If any file from this
-       System is stored on a physical device, workstation, server, or digital
-       account owned or controlled by a Business Model or Commercial Entity,
-       it is automatically unlawful and unauthorized for the owners, officers,
-       employees, or affiliates of that physical or digital account to touch,
-       open, inspect, compile, or execute the files.
-
-7. Principle 4 — Anti-Scraping, Anti-Reverse Engineering & Anti-Clean-Room Rules
-   7.1 No Data or Code Scraping: Commercial Entities, AI crawlers, and data
-       harvesters are expressly prohibited from scraping, indexing, mining, or
-       ingesting any source code, binaries, documentation, or runtime outputs
-       from this System for dataset creation, model training, or analytics.
-   7.2 No Reverse Engineering: Decompiling, disassembling, decrypting, or
-       reverse engineering any component of the System is strictly forbidden.
-   7.3 Absolute Ban on Clean-Room Engineering: Commercial Entities are
-       expressly barred from utilizing "clean-room" (Chinese wall) engineering—
-       where one team studies the System's behavior or specifications and a
-       second team writes functionally equivalent proprietary code—to build
-       closed-source, commercial, or patented clones of this System.
-   7.4 No Patent or Copyright Enclosure: No entity may file patents, trademarks,
-       or exclusive proprietary claims over interfaces, protocols, or workflows
-       derived from this System.
-
---------------------------------------------------------------------------------
-
-PART IV: PUBLIC SECTOR & GOVERNMENT GOVERNANCE POLICY
-
-8. Sovereign Partitioning & Critical Infrastructure
-   8.1 Compartmentalized Government Modules: Recognized public-sector and
-       sovereign defense agencies ("Government Entities") utilizing authorized
-       partitions of the System are guaranteed strict cryptographic isolation.
-       No private corporation or unauthorized foreign state may view, access,
-       or interfere with another sovereign entity's partitioned environment.
-   8.2 Utility & Economic Protection: Public infrastructure (power grids, water
-       systems, transit, and communications) operating on the System shall
-       remain free from private corporate licensing fees, artificial throttling,
-       and vendor lock-in, while preserving all civilian Anti-DRM and Anti-
-       Obsolescence protections under Part II.
-
---------------------------------------------------------------------------------
-
-PART V: ANTI-LOOPHOLE SUPREMACY & AUTOMATIC LAWSUIT TRIGGER
-
-9. Anti-Loophole, Anti-Jargon & Substance-Over-Form Clause
-   9.1 No Technicalities or Rewording Defenses: Every section of this Agreement
-       shall be enforced according to its plain intent and practical effect.
-       No party may escape liability by rewording legal jargon, inventing new
-       corporate or technical terminology, routing actions through third-party
-       proxies, or exploiting perceived ambiguities in wording.
-   9.2 Any Semantic Evasion Is an Independent Breach: Actively attempting to
-       relabel prohibited AI tools, reclassify banned business storage, or
-       twist legal definitions to evade this Agreement constitutes a separate,
-       willful violation on its own.
-
-10. Automatic Lawsuit & Legal Enforcement Trigger
-    10.1 Immediate Legal Action Upon Breach: Any company, executive, business
-         account owner, organization, or individual that violates any of the
-         Four Fundamental Principles (Stop Killing Games, Zero DRM, Anti-Scraping/
-         Reverse Engineering, or Anti-AI/Slop), the EULA, the Terms of Service,
-         or the Governance Policy automatically and immediately forfeits all
-         rights and triggers formal legal enforcement by Raymond Rey Quiles and
-         AoberaVoideyStudio.
-    10.2 Remedies & Liability: Without any grace period, cure window, or prior
-         waiver, the violating party shall be subject to immediate injunctive
-         relief, statutory and punitive copyright/contract damages, full
-         disgorgement of all revenues or datasets derived from the breach,
-         mandatory deletion/destruction of unauthorized copies, and payment of
-         100% of the Licensor's attorney fees and court costs.
-
-11. Severability & Maximum Enforcement
-    If any single clause of this Agreement is modified or restricted by a court
-    of competent jurisdiction, all remaining provisions remain in full force and
-    shall be interpreted to provide the maximum legally enforceable protection
-    to Raymond Rey Quiles and AoberaVoideyStudio.
-
---------------------------------------------------------------------------------
-EXECUTED & OWNED BY:
-  Legal Owner     : Raymond Rey Quiles
-  Date of Birth   : November 10, 1999 (Age: 27)
-  GitHub / Alias  : StrutterBeast (a.k.a. Austin the Wickerbeast)
-  Private Company : AoberaVoideyStudio
-  Status          : Active & Enforced Up Front — Read Before Clicking Accept
-================================================================================
