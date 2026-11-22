@@ -8,6 +8,6 @@ Welcome to Zetra! Your sweet new companion for Godot. Zetra seamlessly bridges y
 * **Supported Engine:** Godot **4.7.2** *(other versions are not supported)*
 * **Included Terrain System:** **Terrain3D** *(bundled under its own MIT License)*
 * **One-Click Setup:** Enable the plugin once to activate all editor tabs automatically
-* **Website / Download:** [zetra-7oh.pages.dev](https://zetra-7oh.pages.dev/) (`zetra_blue_v2_50_4.zip`)
+* **Website / Download:** [zetra-7oh.pages.dev](https://zetra-7oh.pages.dev/)
 
 For a complete breakdown of the included editor tabs, avatar utilities, installation steps, and legal disclaimers, please visit the official [Zetra Blue for Godot](https://zetra-7oh.pages.dev/) website.
