@@ -13,7 +13,9 @@ Welcome to Zetra! Your sweet new companion for Godot. Zetra seamlessly bridges y
 For a complete breakdown of the included editor tabs, avatar utilities, installation steps, and legal disclaimers, please visit the official [Zetra Blue for Godot](https://zetra-7oh.pages.dev/) website.
 
 ================================================================================
+
 PROJECT PHILOSOPHY & FAQ
+
 ================================================================================
 
 1. WHY THIS TOOL EXISTS (THE GABE NEWELL SERVICE PHILOSOPHY)
@@ -163,4 +165,5 @@ box.
 * Constructive Feedback Welcome: This project is built to give creators safe, 
   fast, reliable software. If you have constructive feedback, bug reports, or 
   ideas on how to improve a feature, reach out anytime—I'm here to build.
+  
 ================================================================================
