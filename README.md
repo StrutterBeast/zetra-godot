@@ -126,7 +126,7 @@ box.
   audit its runtime behavior, and report vulnerabilities in good faith without 
   fear of legal retaliation. If you find a security issue, want to coordinate a 
   disclosure, or want to build an official plugin or integration, contact me 
-  directly via encrypted Proton Mail at [INSERT YOUR PROTON EMAIL HERE] (a 
+  directly via encrypted Proton Mail at [rahnightbluelight.epic627@passinbox.com] (a 
   dedicated, tracker-free channel protected against spam and bad-faith 
   noise).
 
