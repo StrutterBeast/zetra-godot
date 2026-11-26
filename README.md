@@ -167,3 +167,5 @@ box.
   ideas on how to improve a feature, reach out anytime—I'm here to build.
   
 ================================================================================
+
+This is an update on my new stance on how I see everything. Terms of service, user, license agreement, and Policies will be updated to this.
